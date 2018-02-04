@@ -1,3 +1,7 @@
+# homework files
+hw_1_old/data
+hw_1/data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
